@@ -1,2 +1,4 @@
-# rh-registration-resources.github.io
+# Rose-Hulman Registration Resources
 A helpful resource I compiled to help Scharpenberg Hall residents and beyond register for classes at Rose Hulman!
+Created by Jessica Xiang
+Last Updated: 10/18/2020 at 7:19 PM
